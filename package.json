@@ -1,0 +1,19 @@
+{
+  "name": "background-generator-",
+  "version": "1.0.0",
+  "description": "feel free to use this dynamic background generator , it will help to generate wonderful background",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adityakapse/Background-generator-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adityakapse/Background-generator-/issues"
+  },
+  "homepage": "https://github.com/Adityakapse/Background-generator-#readme"
+}
